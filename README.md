@@ -7,3 +7,6 @@ This version of the project is functional, should the requirements be provided.
 
 The operational form of the project can be found at the following:
 https://inquisitive-ss.com/
+
+
+(This is not the official repo of the project, as that has been marked as and kept private for privacy reasons).
